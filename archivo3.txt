@@ -2,3 +2,4 @@ Chanchito feliz
 chanchito triste
 chanchito correlon
 Aqui practicando y aprendiendo
+pranticando "git status" "git add ." "git commit -m "mensaje" "git push -u origin main"
